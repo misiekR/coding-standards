@@ -1,0 +1,21 @@
+{
+    "name": "misiekR/coding-standards",
+    "description": "misiekR coding standards",
+    "type": "phpcodesniffer-standard",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Michał Ryczańczyk",
+            "email": "m.ryczanczyk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "slevomat/coding-standard": "^4.8.6",
+        "squizlabs/php_codesniffer": "^3.4.0"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
