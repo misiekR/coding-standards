@@ -1,6 +1,6 @@
 {
-    "name": "misiekR/coding-standards",
-    "description": "misiekR coding standards",
+    "name": "punk-raider/coding-standards",
+    "description": "punk-raider coding standards",
     "type": "phpcodesniffer-standard",
     "license": "proprietary",
     "authors": [

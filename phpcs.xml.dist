@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <ruleset
-    name="PHPCS Coding Standards for misiekR/coding-standard"
+    name="PHPCS Coding Standards for punk-raider/coding-standard"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="vendor/squizlabs/php_codesniffer/phpcs.xsd"
 >
-    <description>Check the code of custom sniffs in misiekR/coding-standards.</description>
+    <description>Check the code of custom sniffs in punk-raider/coding-standards.</description>
 
     <arg name="basepath" value="."/>
     <arg name="extensions" value="php"/>
@@ -12,7 +12,7 @@
 
     <arg value="sp"/>
 
-    <rule ref="misiekR"/>
+    <rule ref="punk-raider"/>
 
     <file>lib</file>
 </ruleset>
